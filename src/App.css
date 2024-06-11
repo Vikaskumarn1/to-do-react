@@ -1,0 +1,19 @@
+.todo {margin: auto;
+  text-align: center;
+ margin-top: 300px;
+ background-color: lightcoral;
+ border-radius: 5px;
+  box-shadow: 0 0 5px;
+  width: 300px;
+  height: auto;
+  padding: 5px;
+}
+
+.list {
+  list-style-type: disc;
+}
+
+.Btn {
+  background-color: aqua;
+  color: white;
+}
